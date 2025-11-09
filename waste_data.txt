@@ -1,0 +1,45 @@
+Item: tablet
+Category: E-Waste
+Outcome: Recycle via electronic waste channels
+Date & Time: 09/11/2025 09:30:48
+----------------------------------------
+Item: fruit
+Category: Non-Recyclable Waste
+Outcome: Can be composted or decomposed naturally
+Date & Time: 09/11/2025 09:30:58
+----------------------------------------
+Item: window glass
+Category: Non-Recyclable Waste
+Outcome: Can be composted or decomposed naturally
+Date & Time: 09/11/2025 09:32:00
+----------------------------------------
+Item: diesel
+Category: Hazardous Waste
+Outcome: Handle using special disposal facilities
+Date & Time: 09/11/2025 09:32:15
+----------------------------------------
+Item: soda can
+Category: Recyclable Waste
+Outcome: Recyclable in industrial process
+Date & Time: 09/11/2025 09:32:49
+----------------------------------------
+Item: steel
+Category: Recyclable Waste
+Outcome: Recyclable in industrial process
+Date & Time: 09/11/2025 09:33:18
+----------------------------------------
+Item: printer
+Category: E-Waste
+Outcome: Recycle via electronic waste channels
+Date & Time: 09/11/2025 09:33:24
+----------------------------------------
+Item: blanket
+Category: Recyclable Waste
+Outcome: Recyclable in industrial process
+Date & Time: 09/11/2025 09:34:39
+----------------------------------------
+Item: t - shirt
+Category: Recyclable Waste
+Outcome: Recyclable in industrial process
+Date & Time: 09/11/2025 09:35:09
+----------------------------------------

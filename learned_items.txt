@@ -1,0 +1,3 @@
+fruit:Non-Recyclable Waste
+blanket:Recyclable Waste
+t - shirt:Recyclable Waste
